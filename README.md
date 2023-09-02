@@ -8,8 +8,8 @@ Panel build for work with flatlaf and miglayout
 
 ## Screenshot
 
-<img src="https://github.com/DJ-Raven/swing-crazy-panel/assets/58245926/b591ae75-9688-4d06-bdd9-c9a191e18025" alt="sample dark" width="300"/>
+<img src="https://github.com/DJ-Raven/swing-crazy-panel/assets/58245926/38c8c8e8-6356-464f-b0fb-e8a89d6aae34" alt="sample dark" width="300"/>
 &nbsp;
-<img src="https://github.com/DJ-Raven/swing-crazy-panel/assets/58245926/56c4fca9-da4f-4ccf-b8a5-f79c3dab2d29" alt="sample light" width="300"/>
+<img src="https://github.com/DJ-Raven/swing-crazy-panel/assets/58245926/61d86cdf-1a74-4d07-931d-07605dc78069" alt="sample light" width="300"/>
 
 Use this bean pack library to build this ui [here](https://github.com/DJ-Raven/raven-bean-pack.git)
